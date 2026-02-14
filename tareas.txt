@@ -1,0 +1,3 @@
+- Tarea 1: Aprender Git
+- Tarea 2: Hacer Proyecto
+- Tarea 3: Colaborar con equipo
